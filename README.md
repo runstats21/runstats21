@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm currently training for my 2nd marathon! 
 -->
-#### I'm Tyler Ward
+#### I'm Tyler Ward :smiley:
 - 🔭 I’m currently working on a Master's Degree in Statistics :computer:
 - 🌱 I’m currently learning data science methods in Python
 - :calling: I’m looking to collaborate on Sports Analytics :football: and Predictive Modeling :chart_with_upwards_trend:
