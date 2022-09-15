@@ -5,12 +5,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  I’m currently working on a Master's Degree in Statistics
+- 🌱 I’m currently learning data science methods in Python
+- :football I’m looking to collaborate on Sports Analytics and Predictive Modeling
+- 🤔 I’m looking for 
+- :chart_with_upwards_trend: Ask me about Data Visualization with ggplot2 and Data Wrangling
+- 📫 How to reach me: tylerw17@byu.edu
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm currently training for my 2nd marathon! 
 -->
+#### I'm Tyler Ward
+- 🔭 I’m currently working on a Master's Degree in Statistics :computer:
+- 🌱 I’m currently learning data science methods in Python
+- :calling: I’m looking to collaborate on Sports Analytics :football: and Predictive Modeling :chart_with_upwards_trend:
+- :eyeglasses: I’m looking for work opportunities in West Coast, USA or Bangkok, Thailand
+- :speech_balloon: Ask me about Data Visualization with ggplot2 and Data Wrangling :bar_chart:
+- 📫 How to reach me: tylerw17@byu.edu
+- ⚡ Fun fact: I'm currently training for my 2nd marathon! :running:
