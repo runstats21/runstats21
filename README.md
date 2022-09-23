@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### I'm Tyler Ward :smiley:
 - 🔭 I’m currently working on a Master's Degree in Statistics :computer:
 - 🌱 I’m currently learning data science methods in Python
-- :calling: I’m looking to collaborate on Sports Analytics :football: and Predictive Modeling :chart_with_upwards_trend:
+- :calling: I’m looking to collaborate on Sports Analytics :football: and Predictive Modeling projects :chart_with_upwards_trend:
 - :eyeglasses: I’m looking for Data Science work opportunities near West Coast, USA or Bangkok, Thailand
 - :speech_balloon: Ask me about Data Visualization with ggplot2 and Data Wrangling :bar_chart:
 - 📫 How to reach me: tylerw17@byu.edu
