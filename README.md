@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - :eyeglasses: I’m looking for Data Science work opportunities near West Coast, USA or Bangkok, Thailand
 - :speech_balloon: Ask me about Data Visualization with ggplot2 and Data Wrangling :bar_chart:
 - 📫 How to reach me: tylerw17@byu.edu
-- ⚡ Fun fact: I'm currently training for my 2nd marathon! :running:
+- ⚡ Fun fact: I'm a big fan of running, spikeball, ultimate frisbee, and movies :running:
