@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Master's Degree in Statistics :computer:
 - 🌱 I’m currently learning data science methods in Python
 - :calling: I’m looking to collaborate on Predictive Modeling projects in Sports Analytics :football:, Healthcare ⚕️, and Quantitative Finance :chart_with_upwards_trend:
-- :eyeglasses: I’m looking for Data Science work opportunities near West Coast, USA or Bangkok, Thailand
+- :eyeglasses: I’m looking for Data Science employment opportunities in West Coast, USA or Bangkok, Thailand
 - :speech_balloon: Ask me about Data Visualization with ggplot2 and plotly express and Data Wrangling :bar_chart:
 - 📫 How to reach me: tylerw17@byu.edu
 - ⚡ Fun fact: I'm a big fan of running, spikeball, ultimate frisbee, and movies :running:
