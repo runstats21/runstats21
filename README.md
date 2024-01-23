@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
--  I’m currently working on a Master's Degree in Statistics
+-  I’m currently working on a Master's Degree in Statistics (BYU '24)
 - 🌱 I’m currently learning Data Science and Machine Learning methods in Python & R
 - :football I’m looking to collaborate on Sports Analytics and Predictive Modeling
 - 🤔 I’m looking for 
