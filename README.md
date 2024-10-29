@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - :calling: I’m looking to collaborate on Predictive Modeling projects in Sports Analytics :football:, Geospatial analyses 🌍, and Business/Technology :chart_with_upwards_trend:
 - :speech_balloon: Ask me about Explainable Machine Learning, Data Viualization, Analysis of Correlated Data, and Spatiotemporal analysis :bar_chart: 🗺️
 - 📫 How to reach me: w.tyler.ward@gmail.com
-- ⚡ Fun facts: I'm a big fan of running, (college and pro) football, ultimate frisbee, faith, and family :running:
+- ⚡ I love running, (college and pro) football, ultimate frisbee, God, and my family :running:
