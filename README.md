@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - :eyeglasses: I’m looking for Data Science employment opportunities in the USA or Bangkok, Thailand
 -->
 #### I'm Tyler Ward :smiley:
-- 🔭Currently a Machine Learning Scientist at STR
+- Currently a Machine Learning Scientist at STR
 - 🏫 Master in Statistics from BYU :computer:
 - 🌱 Always looking for applications of Data Science and Machine Learning methods in Python & R and open to FT employment opportunities in Data Science and Machine Learning Engineering
 - :calling: I’m looking to collaborate on Predictive Modeling projects in Sports Analytics :football:, Geospatial analyses 🌍, and Business/Technology :chart_with_upwards_trend:
