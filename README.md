@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 #### I'm Tyler Ward 😄
 - Currently a Machine Learning Scientist at STR
-- 🏫 Master in Statistics from BYU :computer:
+- Master in Statistics from BYU 🏫
 - 🌱 Always looking for applications of Data Science and Machine Learning methods in Python & R and open to FT employment opportunities in Data Science and Machine Learning Engineering
 - :calling: I’m looking to collaborate on Predictive Modeling projects in Sports Analytics :football:, Geospatial analyses 🌍, and Business/Technology :chart_with_upwards_trend:
 - :speech_balloon: Ask me about Explainable Machine Learning, Data Viualization, Analysis of Correlated Data, and Spatiotemporal analysis :bar_chart: 🗺️
